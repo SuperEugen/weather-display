@@ -1,0 +1,5 @@
+# Secrets
+secrets.h
+
+# .DS_store banished
+.DS_Store
